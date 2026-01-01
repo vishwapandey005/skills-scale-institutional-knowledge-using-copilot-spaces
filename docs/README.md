@@ -8,7 +8,7 @@ OctoAcme follows a customer-first, iterative delivery approach that emphasizes c
 
 Our approach is built around core principles that guide every project: prioritizing customer value, delivering small testable increments, maintaining clear ownership with named Project Managers and Product Leads, making data-informed decisions, and fostering an environment of psychological safety where feedback and learning are encouraged. The project lifecycle follows five key phases—Initiation, Planning, Execution, Release, and Close & Retrospective—each with specific deliverables and decision gates that ensure alignment and reduce risk.
 
-Teams at OctoAcme work with clearly defined roles and responsibilities. Developers implement features and maintain quality standards, Product Managers define outcomes and prioritize work, Project Managers coordinate delivery and manage risks, QA teams validate quality, and stakeholders provide essential inputs and approvals. Communication is structured around regular touchpoints including weekly PM-PdM syncs, twice-weekly team standups, monthly stakeholder updates, and ad-hoc escalations as needed. This rhythm ensures transparency, alignment, and quick resolution of blockers.
+Teams at OctoAcme work with clearly defined roles and responsibilities. Developers implement features and maintain quality standards, Product Managers define outcomes and prioritize work, Project Managers coordinate delivery and manage risks, QA Leads define test strategies and ensure quality standards, Release Managers orchestrate deployments and coordinate releases, Technical Architects provide technical leadership and define standards, Support/Customer Advocates represent the customer voice and manage customer communications, and stakeholders provide essential inputs and approvals. Communication is structured around regular touchpoints including weekly PM-PdM syncs, twice-weekly team standups, monthly stakeholder updates, and ad-hoc escalations as needed. This rhythm ensures transparency, alignment, and quick resolution of blockers.
 
 Quality assurance is embedded throughout our process, not treated as a final gate. We emphasize automated testing with unit, integration, and end-to-end tests, security scanning in CI/CD pipelines, small pull requests for easier review, and manual QA for feature acceptance when needed. Risk management is proactive, with risks identified early, assessed for impact and likelihood, tracked in a Risk Register, and monitored at weekly syncs. Our retrospective practice ensures that learnings are captured after each sprint or milestone and converted into actionable improvements that continuously enhance our delivery capabilities.
 
@@ -32,9 +32,15 @@ This folder contains comprehensive guides for each phase of the OctoAcme project
 
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - Capture learnings and convert them into actionable improvements. Includes retrospective structure, facilitation guidance, and tracking mechanisms.
 
+### Supporting Templates and Resources
+
+- **[Onboarding Checklist](octoacme-onboarding-checklist.md)** - Structured onboarding path for new team members with role-specific checklists to accelerate integration and reduce confusion.
+
+- **[Escalation Matrix](octoacme-escalation-matrix.md)** - Clear escalation paths for different types of issues, risks, and decisions organized by severity and issue type with communication templates.
+
 ### Team Structure
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** - Definitions of typical roles and responsibilities at OctoAcme including Developers, Product Managers, Project Managers, and how these personas guide our project interactions.
+- **[Roles & Personas](octoacme-roles-and-personas.md)** - Definitions of typical roles and responsibilities at OctoAcme including Developers, Product Managers, Project Managers, QA Lead, Release Manager, Technical Architect, and Support/Customer Advocate. Each role includes responsibilities, goals, and communication patterns.
 
 ## Getting Started
 

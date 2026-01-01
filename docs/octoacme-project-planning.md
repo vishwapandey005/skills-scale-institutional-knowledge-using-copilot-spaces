@@ -14,7 +14,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
-6. Create release plan and milestone map
+6. Technical Architect reviews architectural approach and technical risks
+7. Create release plan and milestone map
 
 ## Backlog Item Template
 - Title:
@@ -40,4 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] Technical Architect reviewed technical approach
+- [ ] Support/Customer Advocate input on customer communication captured
