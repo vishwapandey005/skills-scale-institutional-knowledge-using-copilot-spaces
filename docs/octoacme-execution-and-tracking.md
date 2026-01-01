@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead defines test strategy and coordinates test execution
+- QA Lead reviews PRs for testability and signs off on quality gates
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -32,6 +34,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- For detailed escalation paths by issue type, see [Escalation Matrix](octoacme-escalation-matrix.md)
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
