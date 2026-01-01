@@ -23,7 +23,7 @@ Provide a structured onboarding path for new team members joining OctoAcme proje
 - [ ] Meet with Product Manager to understand product vision
 
 ### First Month
-- [ ] Complete first meaningful contribution (code, documentation, or process improvement)
+- [ ] Complete first meaningful contribution (examples: merge a code change, update documentation, improve a process, resolve a customer issue, or complete a test plan)
 - [ ] Participate in retrospective or planning meeting
 - [ ] Understand escalation paths and communication patterns
 - [ ] Build relationships with cross-functional team members

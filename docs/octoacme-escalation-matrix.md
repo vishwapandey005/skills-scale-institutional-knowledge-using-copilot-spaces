@@ -83,11 +83,11 @@ Provide clear escalation paths for different types of issues, risks, and decisio
 
 | Issue Type | First Contact | Escalation Path |
 |------------|--------------|-----------------|
-| Architecture decision | Technical Architect | Tech Architect → Engineering Lead → CTO |
+| Architecture decision | Technical Architect | Technical Architect → Engineering Lead → CTO |
 | Technical debt blocking feature | Developer → Project Manager | PM → Product Manager → Product Lead |
 | Security vulnerability | Developer → Security Team | Security → CISO → Executive Team |
 | Performance degradation | Developer → QA Lead | QA Lead → Technical Architect → Engineering Lead |
-| Third-party dependency issue | Developer → Technical Architect | Tech Architect → PM → Vendor escalation |
+| Third-party dependency issue | Developer → Technical Architect | Technical Architect → PM → Vendor escalation |
 
 ### Quality Issues
 
